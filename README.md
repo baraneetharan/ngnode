@@ -1,1 +1,1 @@
-# ngnode app integrated with slack
+# ngnode app integrated with slack chat
